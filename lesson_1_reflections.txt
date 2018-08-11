@@ -1,0 +1,34 @@
+hey hi there! its me shubham kumar welcoming you to bloody hell of my workplace!
+i am currently learning lessons of life and finding solutions of my problems!
+thank you for joining my journey!
+~~~~~~~
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  If we could easily access to the entire history of versions of program we developed then it is very easy to know our mistakes and in this way we can revert back changes in the programs as well!
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved like Google Docs does?
+   
+
+
+
+
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+    git log generally maps down thw author and commitors names and emails and also commit Ids...
+    git diff is used between two commits to find the differences or changes made so far.....
+
+
+What do you want to try using Git for?
+    I want to use it for developing or modifying projects working together in a group.
+    
